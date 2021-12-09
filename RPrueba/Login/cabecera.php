@@ -1,0 +1,1 @@
+<div align=right> <a href="ingresar.php">Iniciar sesion</a> <a href="registrar.php">Crear cuenta</a>
